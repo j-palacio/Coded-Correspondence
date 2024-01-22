@@ -23,6 +23,7 @@ pip install notebook
 jupyter notebook
 ```
 *This will open Jupyter Notebook in your default web browser.
+
 Now you can run the provided code in a Jupyter Notebook environment and continue your coded correspondence with Vishal!
 
 
